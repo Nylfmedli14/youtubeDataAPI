@@ -1,0 +1,17 @@
+body {
+	background: #f4f4f4;
+	font-size: 14px;
+	color: #666;
+}
+
+#container {
+	width: 800px;
+	margin: auto;
+	overflow: auto;
+	background: #fff;
+	padding: 15px;
+}
+/*
+body {
+  padding-top: 50px;
+}*/
